@@ -23,6 +23,8 @@ namespace UnityStandardAssets._2D
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 
         public Rigidbody2D knife;
+        public int maxKnifeCount;
+        public  int knifeCount;
         private void Awake()
         {
             // Setting up references.
@@ -54,6 +56,16 @@ namespace UnityStandardAssets._2D
         }
 
 
+        public void OnCollisionEnter2D(Collision2D collision)
+        {
+
+            if (collision.gameObject.tag == "CollectibleKnife" && knifeCount != maxKnifeCount)
+            {
+                knifeCount++;
+                Destroy(collision.gameObject);
+            }
+            
+        }
         public void Move(float move, bool crouch, bool jump)
         {
             // If crouching, check to see if the character can stand up
@@ -108,8 +120,13 @@ namespace UnityStandardAssets._2D
 
         public void ThrowKnife()
         {
-            Rigidbody2D aKnife = Instantiate(knife, m_KnifeThrower.position, Quaternion.Euler(new Vector3(0, 0, m_FacingRight ? 0 : 180))) as Rigidbody2D;
-            aKnife.velocity = new Vector2(m_FacingRight ? 20 : -20 , 0);
+            if( knifeCount > 0)
+            {
+                Rigidbody2D aKnife = Instantiate(knife, m_KnifeThrower.position, Quaternion.Euler(new Vector3(0, 0, m_FacingRight ? 0 : 180))) as Rigidbody2D;
+                aKnife.velocity = new Vector2(m_FacingRight ? 20 : -20, 0);
+                knifeCount--;
+            }
+            
         }
 
 
