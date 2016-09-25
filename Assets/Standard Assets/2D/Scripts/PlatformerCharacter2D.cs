@@ -43,7 +43,10 @@ namespace UnityStandardAssets._2D
 
             // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
             // This can be done using layers instead but Sample Assets will not overwrite your project settings.
-            Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
+            Collider2D collider2D = gameObject.GetComponent<Collider2D>();
+            float height = collider2D.bounds.size.y;
+
+            Collider2D[] colliders = Physics2D.OverlapBoxAll(m_GroundCheck.position, new Vector2(k_CeilingRadius,height), m_WhatIsGround);
             for (int i = 0; i < colliders.Length; i++)
             {
                 if (colliders[i].gameObject != gameObject)
@@ -68,6 +71,20 @@ namespace UnityStandardAssets._2D
         }
         public void Move(float move, bool crouch, bool jump)
         {
+            // If the player should jump...
+            Collider2D collider2D = gameObject.GetComponent<Collider2D>();
+            float height = collider2D.bounds.size.y;
+            Debug.Log("height : "+height);
+            bool grabbingWall = Physics2D.OverlapBox(m_WallJumpChecker.position, new Vector2(k_GroundedRadius,height), m_WhatIsGround);
+
+            if ((m_Grounded || grabbingWall) && jump)
+            {
+                // Add a vertical force to the player.
+                m_Grounded = false;
+                m_Anim.SetBool("Ground", false);
+                m_Rigidbody2D.AddForce(new Vector2(0, m_JumpForce));
+            }
+
             // If crouching, check to see if the character can stand up
             if (!crouch && m_Anim.GetBool("Crouch"))
             {
@@ -85,37 +102,27 @@ namespace UnityStandardAssets._2D
             if (m_Grounded || m_AirControl)
             {
                 // Reduce the speed if crouching by the crouchSpeed multiplier
-                move = (crouch ? move*m_CrouchSpeed : move);
+                move = crouch ? move*m_CrouchSpeed : move;
+                
+                bool flipped = false;
+                if (move > 0 && !m_FacingRight || move < 0 && m_FacingRight)
+                {
+                    // ... flip the player.
+                    Flip();
+                    flipped = true;
+                }
 
+                if( grabbingWall && !flipped)
+                {
+                    move = 0;
+                }
                 // The Speed animator parameter is set to the absolute value of the horizontal input.
                 m_Anim.SetFloat("Speed", Mathf.Abs(move));
 
                 // Move the character
-                m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed, m_Rigidbody2D.velocity.y);
-
-                // If the input is moving the player right and the player is facing left...
-                if (move > 0 && !m_FacingRight)
-                {
-                    // ... flip the player.
-                    Flip();
-                }
-                    // Otherwise if the input is moving the player left and the player is facing right...
-                else if (move < 0 && m_FacingRight)
-                {
-                    // ... flip the player.
-                    Flip();
-                }
+                m_Rigidbody2D.velocity = new Vector2(move * m_MaxSpeed, m_Rigidbody2D.velocity.y);
             }
-            // If the player should jump...
-            bool grabbingWall = Physics2D.OverlapCircle(m_WallJumpChecker.position, k_CeilingRadius, m_WhatIsGround);
-            
-            if ((m_Grounded|| grabbingWall) && jump)
-            {
-                // Add a vertical force to the player.
-                m_Grounded = false;
-                m_Anim.SetBool("Ground", false);
-                m_Rigidbody2D.AddForce(new Vector2(0, m_JumpForce));
-            }
+         
         }
 
         public void ThrowKnife()
