@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 3b890cdcc5714db479b6161a8508a3d7
+timeCreated: 1475358659
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2345711-final_pose_sheet_0
+    21300002: 2345711-final_pose_sheet_1
+    21300004: 2345711-final_pose_sheet_2
+    21300006: 2345711-final_pose_sheet_3
+    21300008: 2345711-final_pose_sheet_4
+    21300010: 2345711-final_pose_sheet_5
+    21300012: 2345711-final_pose_sheet_6
+    21300014: 2345711-final_pose_sheet_7
+    21300016: 2345711-final_pose_sheet_8
+    21300018: 2345711-final_pose_sheet_9
+    21300020: 2345711-final_pose_sheet_10
+    21300022: 2345711-final_pose_sheet_11
+    21300024: 2345711-final_pose_sheet_12
+    21300026: 2345711-final_pose_sheet_13
+    21300028: 2345711-final_pose_sheet_14
+    21300030: 2345711-final_pose_sheet_15
+    21300032: 2345711-final_pose_sheet_16
+    21300034: 2345711-final_pose_sheet_17
+    21300036: 2345711-final_pose_sheet_18
+    21300038: 2345711-final_pose_sheet_19
+    21300040: 2345711-final_pose_sheet_20
+    21300042: 2345711-final_pose_sheet_21
+    21300044: 2345711-final_pose_sheet_22
+    21300046: 2345711-final_pose_sheet_23
+    21300048: 2345711-final_pose_sheet_24
+    21300050: 2345711-final_pose_sheet_25
+    21300052: 2345711-final_pose_sheet_26
+    21300054: 2345711-final_pose_sheet_27
+    21300056: 2345711-final_pose_sheet_28
+    21300058: 2345711-final_pose_sheet_29
+    21300060: 2345711-final_pose_sheet_30
+    21300062: 2345711-final_pose_sheet_31
+    21300064: 2345711-final_pose_sheet_32
+    21300066: 2345711-final_pose_sheet_33
+    21300068: 2345711-final_pose_sheet_34
+    21300070: 2345711-final_pose_sheet_35
+    21300072: 2345711-final_pose_sheet_36
+    21300074: 2345711-final_pose_sheet_37
+    21300076: 2345711-final_pose_sheet_38
+    21300078: 2345711-final_pose_sheet_39
+    21300080: 2345711-final_pose_sheet_40
+    21300082: 2345711-final_pose_sheet_41
+    21300084: 2345711-final_pose_sheet_42
+    21300086: 2345711-final_pose_sheet_43
+    21300088: 2345711-final_pose_sheet_44
+    21300090: 2345711-final_pose_sheet_45
+    21300092: 2345711-final_pose_sheet_46
+    21300094: 2345711-final_pose_sheet_47
+    21300096: 2345711-final_pose_sheet_48
+    21300098: 2345711-final_pose_sheet_49
+    21300100: 2345711-final_pose_sheet_50
+    21300102: 2345711-final_pose_sheet_51
+    21300104: 2345711-final_pose_sheet_52
+    21300106: 2345711-final_pose_sheet_53
+    21300108: 2345711-final_pose_sheet_54
+    21300110: 2345711-final_pose_sheet_55
+    21300112: 2345711-final_pose_sheet_56
+    21300114: 2345711-final_pose_sheet_57
+    21300116: 2345711-final_pose_sheet_58
+    21300118: 2345711-final_pose_sheet_59
+    21300120: 2345711-final_pose_sheet_60
+    21300122: 2345711-final_pose_sheet_61
+    21300124: 2345711-final_pose_sheet_62
+    21300126: 2345711-final_pose_sheet_63
+    21300128: 2345711-final_pose_sheet_64
+    21300130: 2345711-final_pose_sheet_65
+    21300132: 2345711-final_pose_sheet_66
+    21300134: 2345711-final_pose_sheet_67
+    21300136: 2345711-final_pose_sheet_68
+    21300138: 2345711-final_pose_sheet_69
+    21300140: 2345711-final_pose_sheet_70
+    21300142: 2345711-final_pose_sheet_71
+    21300144: 2345711-final_pose_sheet_72
+    21300146: 2345711-final_pose_sheet_73
+    21300148: 2345711-final_pose_sheet_74
+    21300150: 2345711-final_pose_sheet_75
+    21300152: 2345711-final_pose_sheet_76
+    21300154: 2345711-final_pose_sheet_77
+    21300156: 2345711-final_pose_sheet_78
+    21300158: 2345711-final_pose_sheet_79
+    21300160: 2345711-final_pose_sheet_80
+    21300162: 2345711-final_pose_sheet_81
+    21300164: 2345711-final_pose_sheet_82
+    21300166: 2345711-final_pose_sheet_83
+    21300168: 2345711-final_pose_sheet_84
+    21300170: 2345711-final_pose_sheet_85
+    21300172: 2345711-final_pose_sheet_86
+    21300174: 2345711-final_pose_sheet_87
+    21300176: 2345711-final_pose_sheet_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2596
+        width: 228
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2594
+        width: 231
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2597
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2596
+        width: 173
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2594
+        width: 232
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2594
+        width: 250
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2593
+        width: 147
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2596
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2384
+        width: 178
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2384
+        width: 164
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2384
+        width: 167
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2386
+        width: 218
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2384
+        width: 168
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2384
+        width: 155
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2384
+        width: 183
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2380
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2373
+        width: 155
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2183
+        width: 262
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2180
+        width: 253
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2180
+        width: 177
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2191
+        width: 249
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2180
+        width: 231
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2180
+        width: 209
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1997
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1953
+        width: 210
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1956
+        width: 223
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1956
+        width: 222
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1954
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1950
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1950
+        width: 166
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1950
+        width: 175
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1945
+        width: 202
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1767
+        width: 293
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1770
+        width: 256
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1768
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1766
+        width: 131
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1762
+        width: 210
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1430
+        width: 111
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1759
+        width: 238
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1751
+        width: 131
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1748
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1557
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1476
+        width: 311
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1446
+        width: 146
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1607
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1435
+        width: 123
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1427
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1417
+        width: 199
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1256
+        width: 181
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1268
+        width: 216
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1192
+        width: 191
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1193
+        width: 161
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1200
+        width: 196
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1197
+        width: 200
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1227
+        width: 190
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1178
+        width: 136
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1183
+        width: 256
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1023
+        width: 229
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 523
+        width: 174
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 769
+        width: 91
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 985
+        width: 264
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 996
+        width: 299
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 940
+        width: 131
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 800
+        width: 119
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 734
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 699
+        width: 74
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 766
+        width: 104
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 725
+        width: 104
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 490
+        width: 219
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 658
+        width: 114
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 750
+        width: 171
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 734
+        width: 229
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 742
+        width: 172
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 526
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 516
+        width: 83
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 516
+        width: 131
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 285
+        width: 141
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 497
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 490
+        width: 195
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 252
+        width: 293
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 6
+        width: 189
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 292
+        width: 284
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 29
+        width: 188
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 255
+        width: 230
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 28
+        width: 189
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 38
+        width: 202
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 32
+        width: 288
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2345711-final_pose_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 39
+        width: 215
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
